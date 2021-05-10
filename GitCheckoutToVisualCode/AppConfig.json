@@ -1,0 +1,5 @@
+﻿App:
+  GitUrl: https://gitlab.com/tarzanzito/MusicCollection.git
+  UseSSH: false
+  UserName: tarzanzito
+  RootFolder: D:\GIT - WORK
