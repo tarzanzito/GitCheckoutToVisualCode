@@ -1,0 +1,2 @@
+# GitCheckoutToVisualCode
+GitCheckoutToVisualCode
